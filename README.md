@@ -8,5 +8,7 @@
 
 [![Run-tests-on-any-Push-event](https://github.com/21092004Goda/dfgdfg/actions/workflows/main.yml/badge.svg?branch=main&event=workflow_run)](https://github.com/21092004Goda/dfgdfg/actions/workflows/main.yml)
 
+[![Run-tests-on-any-Push-event](https://github.com/21092004Goda/dfgdfg/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/21092004Goda/dfgdfg/actions/workflows/main.yml)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2332BCF7&lines=001010010100011101110010001000110001000010000101101101101010111001010101100110101010101001011010110101000011101101111110001000010000010111010100)](https://git.io/typing-svg)
