@@ -19,5 +19,6 @@ def calculator(function):
                 raise ZeroDivisionError('На ноль не делят')
 
 
+                
 if __name__ == '__main__':
     print(calculator('10/10'))
